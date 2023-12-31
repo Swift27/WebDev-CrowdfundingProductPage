@@ -21,7 +21,4 @@ The users are be able to:
 
 - HTML5
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
 - JavaScript
