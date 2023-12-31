@@ -4,6 +4,8 @@
 
 ## Welcome! 👋
 
+Thank you for checking out my crowdfunding product page.
+
 ## The challenge
 
 The users are be able to:
